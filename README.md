@@ -1,5 +1,6 @@
 To do list
-Genreal steps to follow when creating a project
+
+General steps to follow the project
 
 
 
