@@ -1,5 +1,8 @@
 To do list
 Genreal steps to follow when creating a project
+
+
+
 Thinking about the UI
 Functionality
 Add a TODO
